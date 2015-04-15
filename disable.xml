@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Disable EmbarkedAllWaters option from wayfinding trait for polynesia -->
+<GameData>
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_WAYFINDING" />
+			<Set EmbarkedAllWater="false" />
+		</Update>
+	</Traits>
+</GameData>

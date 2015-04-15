@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Enable EmbarkedAllWaters option given trait -->
+<GameData>
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_JFD_LITHUANIA" />
+			<Set EmbarkedAllWater="true" NearbyImprovementBonusRange="2" />
+		</Update>
+	</Traits>
+</GameData>
